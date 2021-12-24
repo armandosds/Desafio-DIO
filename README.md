@@ -1,8 +1,9 @@
-![csharp](./csharp.png)
+<img src="./csharp.png" alt="drawing" width="128"/>
 
 > Desafio Bootcamp Localiza C#.
 
 ```html
+<style>
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,4 +21,5 @@ namespace ConsoleApp1
     }
     }
 }
+</style>
 ```
