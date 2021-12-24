@@ -1,4 +1,4 @@
-![csharp](../csharp.png)
+![csharp](./csharp.png)
 
 > Desafio Bootcamp Localiza C#.
 
